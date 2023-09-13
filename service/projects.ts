@@ -7,6 +7,7 @@ export type Projects = {
 	image: string;
 	content: string;
 	date: string;
+	category: string;
 }
 
 

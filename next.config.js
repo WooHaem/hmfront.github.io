@@ -2,7 +2,10 @@
 
 const nextConfig = {
   output: 'export',
-  basePath: '/hmfront.com',
+  distDir: 'dist',
+  images: {
+    unoptimized: true,
+  },
 }
 
 module.exports = nextConfig

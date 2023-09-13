@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
+
 const nextConfig = {
-  basePath: '/hmfront.github.io',
+  output: 'export',
+  basePath: '/hmfront.com',
 }
 
 module.exports = nextConfig

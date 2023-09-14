@@ -17,8 +17,8 @@
   },
   {
     "name": "Board",
-    "url": "",
-    "image": "/images/ing.png",
+    "url": "https://next-board-ob3v792vk-woohaem.vercel.app/",
+    "image": "/images/board.png",
     "content": "",
     "date": "Coming Soon",
     "category": "frontend"

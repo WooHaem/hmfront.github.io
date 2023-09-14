@@ -7,6 +7,22 @@
     "date": "2023-08-21",
     "category": "frontend"
   },
+  {
+    "name": "Haemstagram",
+    "url": "",
+    "image": "/images/ing.png",
+    "content": "",
+    "date": "Coming Soon",
+    "category": "frontend"
+  },
+  {
+    "name": "Board",
+    "url": "",
+    "image": "/images/ing.png",
+    "content": "",
+    "date": "Coming Soon",
+    "category": "frontend"
+  },
 
   {
     "name": "DoosanEnc",
@@ -91,7 +107,7 @@
   {
     "name": "예일전자 Headtooth",
     "url": "http://headtooth.kr/",
-    "image": "/images/noimg.jpg",
+    "image": "/images/noimg.png",
     "content": "",
     "date": "2022-10-01",
     "category": "cms"
